@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 first update
+=======
+second update
+
+>>>>>>> future/futureUpdate
 
